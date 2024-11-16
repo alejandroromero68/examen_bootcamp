@@ -1,0 +1,331 @@
+{
+    "MSZoning": [
+        "rl",
+        "rm",
+        "c (all",
+        "fv",
+        "rh"
+    ],
+    "Street": [
+        "pave",
+        "grvl"
+    ],
+    "Alley": [
+        "grvl",
+        "pave"
+    ],
+    "LotShape": [
+        "reg",
+        "ir"
+    ],
+    "LandContour": [
+        "lvl",
+        "bnk",
+        "low",
+        "hls"
+    ],
+    "Utilities": [
+        "allpub",
+        "nosewa"
+    ],
+    "LotConfig": [
+        "inside",
+        "fr",
+        "corner",
+        "culdsac"
+    ],
+    "LandSlope": [
+        "gtl",
+        "mod",
+        "sev"
+    ],
+    "Neighborhood": [
+        "collgcr",
+        "veenker",
+        "crawfor",
+        "noridge",
+        "mitchel",
+        "somerst",
+        "nwames",
+        "oldtown",
+        "brkside",
+        "sawyer",
+        "nridght",
+        "names",
+        "sawyerw",
+        "idotrr",
+        "meadowv",
+        "edwards",
+        "timber",
+        "gilbert",
+        "stonebr",
+        "clearcr",
+        "npkvill",
+        "blmngtn",
+        "brdale",
+        "swisu",
+        "blueste"
+    ],
+    "Condition1": [
+        "norm",
+        "feedr",
+        "posn",
+        "artery",
+        "rrae",
+        "rrnn",
+        "rran",
+        "posa",
+        "rrne"
+    ],
+    "Condition2": [
+        "norm",
+        "artery",
+        "rrnn",
+        "feedr",
+        "posn",
+        "posa",
+        "rran",
+        "rrae"
+    ],
+    "BldgType": [
+        "fam",
+        "fmcon",
+        "duplex",
+        "twnhse",
+        "twnhs"
+    ],
+    "HouseStyle": [
+        "story",
+        "fin",
+        "unf",
+        "sfoyer",
+        "slvl"
+    ],
+    "RoofStyle": [
+        "gable",
+        "hip",
+        "gambrel",
+        "mansard",
+        "flat",
+        "shed"
+    ],
+    "RoofMatl": [
+        "compshg",
+        "wdshngl",
+        "metal",
+        "wdshake",
+        "membran",
+        "tar&grv",
+        "roll",
+        "clytile"
+    ],
+    "Exterior1st": [
+        "vinylsd",
+        "metalsd",
+        "wd sdng",
+        "hdboard",
+        "brkface",
+        "wdshing",
+        "cemntbd",
+        "plywood",
+        "asbshng",
+        "stucco",
+        "brkcomm",
+        "asphshn",
+        "stone",
+        "imstucc",
+        "cblock"
+    ],
+    "Exterior2nd": [
+        "vinylsd",
+        "metalsd",
+        "wd shng",
+        "hdboard",
+        "plywood",
+        "wd sdng",
+        "cmentbd",
+        "brkface",
+        "stucco",
+        "asbshng",
+        "brk cmn",
+        "imstucc",
+        "asphshn",
+        "stone",
+        "other",
+        "cblock"
+    ],
+    "MasVnrType": [
+        "brkface",
+        "stone",
+        "brkcmn"
+    ],
+    "ExterQual": [
+        "gd",
+        "ta",
+        "ex",
+        "fa"
+    ],
+    "ExterCond": [
+        "ta",
+        "gd",
+        "fa",
+        "po",
+        "ex"
+    ],
+    "Foundation": [
+        "pconc",
+        "cblock",
+        "brktil",
+        "wood",
+        "slab",
+        "stone"
+    ],
+    "BsmtQual": [
+        "gd",
+        "ta",
+        "ex",
+        "fa"
+    ],
+    "BsmtCond": [
+        "ta",
+        "gd",
+        "fa",
+        "po"
+    ],
+    "BsmtExposure": [
+        "no",
+        "gd",
+        "mn",
+        "av"
+    ],
+    "BsmtFinType1": [
+        "glq",
+        "alq",
+        "unf",
+        "rec",
+        "blq",
+        "lwq"
+    ],
+    "BsmtFinType2": [
+        "unf",
+        "blq",
+        "alq",
+        "rec",
+        "lwq",
+        "glq"
+    ],
+    "Heating": [
+        "gasa",
+        "gasw",
+        "grav",
+        "wall",
+        "othw",
+        "floor"
+    ],
+    "HeatingQC": [
+        "ex",
+        "gd",
+        "ta",
+        "fa",
+        "po"
+    ],
+    "CentralAir": [
+        "y",
+        "n"
+    ],
+    "Electrical": [
+        "sbrkr",
+        "fusef",
+        "fusea",
+        "fusep",
+        "mix"
+    ],
+    "KitchenQual": [
+        "gd",
+        "ta",
+        "ex",
+        "fa"
+    ],
+    "Functional": [
+        "typ",
+        "min",
+        "maj",
+        "mod",
+        "sev"
+    ],
+    "FireplaceQu": [
+        "ta",
+        "gd",
+        "fa",
+        "ex",
+        "po"
+    ],
+    "GarageType": [
+        "attchd",
+        "detchd",
+        "builtin",
+        "carport",
+        "basment",
+        "types"
+    ],
+    "GarageFinish": [
+        "rfn",
+        "unf",
+        "fin"
+    ],
+    "GarageQual": [
+        "ta",
+        "fa",
+        "gd",
+        "ex",
+        "po"
+    ],
+    "GarageCond": [
+        "ta",
+        "fa",
+        "gd",
+        "po",
+        "ex"
+    ],
+    "PavedDrive": [
+        "y",
+        "n",
+        "p"
+    ],
+    "PoolQC": [
+        "ex",
+        "fa",
+        "gd"
+    ],
+    "Fence": [
+        "mnprv",
+        "gdwo",
+        "gdprv",
+        "mnww"
+    ],
+    "MiscFeature": [
+        "shed",
+        "gar",
+        "othr",
+        "tenc"
+    ],
+    "SaleType": [
+        "wd",
+        "new",
+        "cod",
+        "conld",
+        "conli",
+        "cwd",
+        "conlw",
+        "con",
+        "oth"
+    ],
+    "SaleCondition": [
+        "normal",
+        "abnorml",
+        "partial",
+        "adjland",
+        "alloca",
+        "family"
+    ]
+}
